@@ -1,10 +1,10 @@
-num=int(input())
-temp=num
+n=int(input())
+temp=n
 rev=0
-while(num>0):
-	    dig=num%10
+while(n>0):
+	    dig=n%10
      	    rev=rev*10+dig
-	    num=num//10
+	    n=n//10
 if(temp==rev):
 	    print("yes")
 else:
