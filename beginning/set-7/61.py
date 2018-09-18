@@ -1,5 +1,5 @@
 r,s=input().split()
-s=int(y)
+s=int(s)
 k=[]
 for i in range(0,s):
      k.append(r[i])
