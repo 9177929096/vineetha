@@ -1,3 +1,3 @@
-z=int(input())
-list=[int(k) for k in input().split()]
+n=int(input())
+list=[int(x) for x in input().split()]
 print(min(list))
