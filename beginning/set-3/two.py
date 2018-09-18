@@ -1,6 +1,6 @@
-n=input()
+m=input()
 list=[]
-for i in range(0,n):
+for i in range(0,m):
 	int_input=int(raw_input())
 	list.append(int_input())
 	print(list)
