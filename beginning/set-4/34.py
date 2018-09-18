@@ -1,2 +1,2 @@
-list=[x for x in input().split(".")]
-print(len(list))
+list1=[y for y in input().split(".")]
+print(len(list1))
