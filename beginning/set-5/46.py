@@ -1,2 +1,2 @@
-a=int(input(""))
-print(a+1)
+y=int(input(""))
+print(y+1)
